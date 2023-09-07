@@ -12,6 +12,5 @@
 #### 2. First, I created the Django project and Django App.
 #### 3. Then in settings, added ", rest_framework, rest_framework.authtoken" to create Restful API that have authentication policies.
 #### 4. Created Model, Serializer, Views that include all CRUD functions and then defined URLs.
-#### 5. Created superuser, registered model in admins.py, logged in to admin account and generated token for admin and then added the token to Authorization field in 'Postman'. eg: Token 
-fbead655dc06a1b71258aece42b4d5f81c5ff21e
+#### 5. Created superuser, registered model in admins.py, logged in to admin account and generated token for admin and then added the token to Authorization field in 'Postman'. eg: Token fbead655dc06a1b71258aece42b4d5f81c5ff21e
 
